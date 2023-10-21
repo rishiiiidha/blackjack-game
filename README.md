@@ -5,7 +5,7 @@ Welcome to the Blackjack Game! This is a Python-based implementation of the clas
 
 ## Game Rules
 
-1. **Card Values**: In this game, the Jack, Queen, and King all count as 10 points. Aces can be counted as 1 point, depending on which value is more favorable to your hand.
+1. **Card Values**: In this game, the Jack, Queen, and King all count as 10 points. Aces is counted as 1 point, other cards are their default values.
 
 2. **Card Removal**: Cards are not removed from the deck as they are drawn, so the same card can be drawn in consecutive rounds.
 
